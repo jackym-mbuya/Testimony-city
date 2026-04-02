@@ -1,0 +1,9 @@
+  => Template Name    : Testimony City - Business Centre Website
+
+  => Template Link    : (Your website URL)
+
+  => Template License : MIT License
+
+  => Template Author  : Testimony City Team
+
+  => Author Website   : https://testimonycity.com
